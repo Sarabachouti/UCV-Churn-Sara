@@ -1,0 +1,8 @@
+# Parámetros del proyecto
+
+test_size:
+random_state:
+
+model:
+
+features:

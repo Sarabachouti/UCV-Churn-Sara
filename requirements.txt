@@ -1,0 +1,1 @@
+# librerías de Python necesarias para ejecutar el proyecto
